@@ -25,7 +25,7 @@ This project scrapes the latest news headlines from [Dawn.com](https://www.dawn.
 
 ## 📂 Files Included
 
-- `news_scraper_sentiment.py` – Python script to scrape, analyze, and export data
+- `news_scraper.py` – Python script to scrape, analyze, and export data
 - `news_sentiment.csv` – Final dataset used for visualization
 - `news_headlines.csv` – Raw scraped headlines
 - `dashboard.pbix` – *(optional)* Power BI dashboard file
